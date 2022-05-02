@@ -1,0 +1,37 @@
+@model Africa.Modelo.Ropa
+
+@if (@Model == null || @Model.ID == 0)
+{
+    <h3>INGRESE UN ARTICULO</h3>
+}
+else
+{
+    <h3>MODIFICAR ARTICULO: <span>@Model.ID</span></h3>
+
+}
+
+<form method="post">
+    <div class="form-group">
+        <input type="text " asp-for="@Model.ID" placeholder="Ingresar ID de la prenda.">
+        <span asp-validation-for="@Model.ID" class="badge badge-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="text " asp-for="@Model.NombrePrenda" placeholder="Ingresar el nombre de la prenda.">
+        <span asp-validation-for="@Model.NombrePrenda" class="badge badge-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="text " asp-for="@Model.Prenda" placeholder="Ingresar tipo de prenda.">
+        <span asp-validation-for="@Model.Prenda" class="badge badge-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="text " asp-for="@Model.CantidadStock" placeholder="Ingresar cantidad de prendas.">
+
+    </div>
+    <input type="submit" value="Guardar" class="btn btn-dark">
+    <a asp-page="Galeria" class="btn btn-secondary"
+        onclick="return confirm('¿Esta seguro que decea volver sin guardar?')">Volver</a>
+
+</form>
