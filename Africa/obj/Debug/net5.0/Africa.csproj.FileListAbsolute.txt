@@ -1,0 +1,90 @@
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\appsettings.json
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.exe
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.deps.json
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.runtimeconfig.json
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.dll
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\ref\Africa.dll
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.pdb
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.Views.dll
+C:\Users\Mati\Desktop\Primera Parte\africa\bin\Debug\net5.0\Africa.Views.pdb
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.RazorAssemblyInfo.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.RazorAssemblyInfo.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\staticwebassets\Africa.StaticWebAssets.Manifest.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\staticwebassets\Africa.StaticWebAssets.xml
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\scopedcss\bundle\Africa.styles.css
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.TagHelpers.input.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.TagHelpers.output.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.RazorCoreGenerate.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.RazorTargetAssemblyInfo.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.RazorTargetAssemblyInfo.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.Views.pdb
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.dll
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\ref\Africa.dll
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.pdb
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Africa.csproj.CopyComplete
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Galery\Galeria.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Galery\Editar.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Galery\Ingresar.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Shared\_FormGaleria.cshtml.g.cs
+C:\Users\Mati\Desktop\Primera Parte\africa\obj\Debug\net5.0\Razor\Pages\Shared\_Lista.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\appsettings.json
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.exe
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.deps.json
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.runtimeconfig.json
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.runtimeconfig.dev.json
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.dll
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\ref\Africa.dll
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.pdb
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.Views.dll
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\bin\Debug\net5.0\Africa.Views.pdb
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.RazorAssemblyInfo.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.RazorAssemblyInfo.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\staticwebassets\Africa.StaticWebAssets.Manifest.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\staticwebassets\Africa.StaticWebAssets.xml
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\scopedcss\bundle\Africa.styles.css
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.TagHelpers.input.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.TagHelpers.output.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.RazorCoreGenerate.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Galery\Editar.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Galery\Galeria.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Galery\Ingresar.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Shared\_FormGaleria.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Shared\_Lista.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.RazorTargetAssemblyInfo.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.RazorTargetAssemblyInfo.cs
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.Views.pdb
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.dll
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\ref\Africa.dll
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.pdb
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Matias Arias Parcial\africa\obj\Debug\net5.0\Africa.csproj.CopyComplete
