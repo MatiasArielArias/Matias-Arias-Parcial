@@ -56,15 +56,12 @@ namespace Africa.Pages
         }
         public void OnPostBuscar(string PrendaBuscar)
         {
-            if (PrendaBuscar == "")
+            if (PrendaBuscar == null)
             {
-                _ropaServicio.MostrarTodos();
-
-
+                Ropas = _ropaServicio.MostrarTodos().ToList();
             }
             else
             {
-
                 Ropas = _ropaServicio.MostrarTodos().Where(x => x.Prenda == PrendaBuscar).ToList();
             }
         }
